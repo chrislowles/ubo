@@ -1,0 +1,8 @@
+! Title: Chris Lowles uBlocking - Threads by Meta
+
+!! *Trying to* disable autoplay
+||threads.net^$permissions=autoplay=()
+
+!! No view notifications, thanks
+threads.net##.x1a2a7pz.x1n2onr6 > :has-text(/Your reply got over (.*) views/)
+threads.net##.x1a2a7pz.x1n2onr6 > :has-text(/Your post got over (.*) views/)

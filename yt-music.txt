@@ -1,0 +1,4 @@
+! Title: Chris Lowles uBlocking - YouTube Music
+
+! Filtering by channel or playlist id
+! music.youtube.com##[href*="<channel-id>"]:upward(ytmusic-two-row-item-renderer)

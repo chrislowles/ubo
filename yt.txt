@@ -1,0 +1,5 @@
+! Title: Chris Lowles uBlocking - YouTube
+
+! Get rid of that pink "retention" shit on the progress bar
+www.youtube.com##.ytp-cairo-refresh-signature-moments .ytp-play-progress:style(background: #FF0000 !important;)
+www.youtube.com##ytd-thumbnail-overlay-resume-playback-renderer[enable-refresh-signature-moments-web] #progress.ytd-thumbnail-overlay-resume-playback-renderer:style(background: #FF0000 !important;)
