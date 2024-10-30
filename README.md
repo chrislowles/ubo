@@ -2,7 +2,7 @@
 ABP and uBlock Origin filters (right-click, copy link and import as url in UBO)
 
 ### [all.txt](https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/all.txt)
-Subscribes to all the filter lists below.
+Subscribes to all the filter lists below minus the external one.
 
 ### [external.txt](https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/external.txt)
 External filters I sub to.
