@@ -1,8 +1,11 @@
 # ubo
-ABP and uBlock Origin filters, etc (right-click, copy link and import as url in UBO)
+ABP and uBlock Origin filters (right-click, copy link and import as url in UBO)
 
 ### [all.txt](https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/all.txt)
 Subscribes to all the filter lists below.
+
+### [external.txt](https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/external.txt)
+External filters I sub to.
 
 ### [domains.txt](https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/domains.txt)
 Some domains, usually of sites that don't exist anymore.
