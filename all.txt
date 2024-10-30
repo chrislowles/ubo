@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/chrislowles/ubo
 
 !#include domains.txt
+!#include external.txt
 !#include google.txt
 !#include ig.txt
 !#include odds.txt
