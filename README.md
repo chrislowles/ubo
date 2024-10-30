@@ -1,26 +1,29 @@
 # ubo
-ABP and uBlock Origin filters, etc.
+ABP and uBlock Origin filters, etc (right-click, copy link and import as url in UBO)
 
-### [all.txt](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/all.txt)
-Subscribes to all below filter lists.
+### [all.txt](https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/all.txt)
+Subscribes to all the filter lists below.
 
-### [domains.txt](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/domains.txt)
+### [domains.txt](https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/domains.txt)
 Some domains, usually of sites that don't exist anymore.
 
-### [google.txt](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/google.txt)
+### [google.txt](https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/google.txt)
 Some aspects of Google I don't care about (external login popups, maybe more in the future)
 
-### [odds.txt](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/odds.txt)
+### [ig.txt](https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/ig.txt)
+Things in Instagram or the IG Mobile PWA I don't care for (Posts on Threads for example)
+
+### [odds.txt](https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/odds.txt)
 Random filters I've set over time.
 
-### [threads.txt](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/threads.txt)
-Aspects of Threads, an app by Meta that'll probably shut down in a few years if they keep their bullshit moderation up.
+### [threads.txt](https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/threads.txt)
+Aspects of Threads, an app by Meta that'll probably be shut down in a few years due to moderation bullshit they've let build up collapse in on itself.
 
-### [wikipedia.txt](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/wikipedia.txt)
-Aspects of Wikipedia I don't care about, I donate when I can so to get asked again is annoying.
+### [wikipedia.txt](https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/wikipedia.txt)
+Aspects of Wikipedia, I donate when I can so to get asked again is annoying.
 
-### [yt-music.txt](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/yt-music.txt)
-YT Music, mostly just ways of filtering stuff going from normal YouTube so I can keep the UI relatively clean.
+### [yt-music.txt](https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/yt-music.txt)
+YouTube Music, mostly just ways of filtering stuff going from normal YouTube so I can keep the UI relatively focused.
 
-### [yt.txt](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/yt.txt)
+### [yt.txt](https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/yt.txt)
 YouTube itself, this currently covers updates that fuck with general usability.
