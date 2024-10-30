@@ -5,7 +5,7 @@ ABP and uBlock Origin filters (right-click, copy link and import as url in UBO)
 Subscribes to all the filter lists below minus the external one.
 
 ### [external.txt](https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/external.txt)
-External filters I sub to.
+External filters I sub to, instead here copy the **text** and import them through UBO.
 
 ### [domains.txt](https://raw.githubusercontent.com/chrislowles/ubo/refs/heads/main/domains.txt)
 Some domains, usually of sites that don't exist anymore.
