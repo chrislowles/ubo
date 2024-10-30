@@ -1,9 +1,8 @@
-! Title: Chris Lowles uBlocking - All
+! Title: Chris Lowles uBlocking - All [Minus External]
 ! Description: Filters for uBlock, to remove distractions in multiple websites.
 ! Homepage: https://github.com/chrislowles/ubo
 
 !#include domains.txt
-!#include external.txt
 !#include google.txt
 !#include ig.txt
 !#include odds.txt
