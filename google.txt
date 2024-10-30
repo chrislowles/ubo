@@ -1,3 +1,4 @@
-! Title: Chris Lowles uBlocking - Google External Popups
+! Title: Chris Lowles uBlocking - Google
 
-accounts.google.com/gsi/iframe
+!! External Popups
+||accounts.google.com/gsi/*$xhr,script,3p
