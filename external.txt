@@ -1,18 +1,16 @@
-! Title: Chris Lowles uBlocking - External Filters
+! Title: Chris Lowles uBlocking - External
 
-! efficiency filters
+! odds
 !#include https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+!#include https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
 
-! fuck fandom.com
+! fandom.com
 !#include https://www.squabbled.net/paste/fandomfixeduBlockOrigin.txt
 
 ! youtube
 !#include https://raw.githubusercontent.com/mchangrh/yt-neuter/main/filters/sponsorblock.txt
 !! shorts
 !#include https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt
-
-! random odds
-!#include https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
 
 ! twitch
 !#include https://raw.githubusercontent.com/DandelionSprout/adfilt/master/TwitchPureViewingExperience.txt
