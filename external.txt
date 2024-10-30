@@ -1,23 +1,9 @@
-! Title: Chris Lowles uBlocking - External
-
-! odds
-!#include https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
-!#include https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
-
-! fandom.com
-!#include https://www.squabbled.net/paste/fandomfixeduBlockOrigin.txt
-
-! youtube
-!#include https://raw.githubusercontent.com/mchangrh/yt-neuter/main/filters/sponsorblock.txt
-!! shorts
-!#include https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt
-
-! twitch
-!#include https://raw.githubusercontent.com/DandelionSprout/adfilt/master/TwitchPureViewingExperience.txt
-
-! anti-adblock killer (aak)
-!#include https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
-
-! anti-paywall (don't speak of this, also bpc userscript and xpi is out there to combine with this)
-!#include https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt
-!#include https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=bpc-paywall-filter.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+https://www.squabbled.net/paste/fandomfixeduBlockOrigin.txt
+https://raw.githubusercontent.com/mchangrh/yt-neuter/main/filters/sponsorblock.txt
+https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/TwitchPureViewingExperience.txt
+https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
+https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt
+https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=bpc-paywall-filter.txt
