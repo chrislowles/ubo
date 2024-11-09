@@ -1,4 +1,0 @@
-! Title: Chris Lowles uBlocking - Google
-
-!! External Popups
-||accounts.google.com/gsi/*$xhr,script,3p
